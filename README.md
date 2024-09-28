@@ -1,3 +1,7 @@
+**Medical-Transcription**
+
+In this repository medical transcriptions are preprocessed and converted to sequences to be fed to CNN.
+
 ***About Dataset***
 
 **Context**
