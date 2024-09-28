@@ -10,7 +10,9 @@ This dataset contains sample medical transcriptions for various medical specialt
 
 **Acknowledgements**
 
-This data was scraped from mtsamples.com
+This data was scraped from mtsamples.com 
+
+kaggle link: https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 
 **Requirements**
 
