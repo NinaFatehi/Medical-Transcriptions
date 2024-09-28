@@ -14,10 +14,11 @@ This data was scraped from mtsamples.com
 
 **Requirements**
 
-Python3
-Pandas
-numpy
-Spacy
-nltk
-keras
+1) Python3
+2) Pandas
+3) numpy
+4) Spacy
+5) nltk
+6) keras
+
 
